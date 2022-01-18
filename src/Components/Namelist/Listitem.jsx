@@ -4,7 +4,7 @@ import './Listitem.css';
 function Listitem(props){
     return(
         <React.Fragment>
-<<<<<<< HEAD
+
             
                 <ul className='list-group-item'>
                     <div className="row align-items-center">
@@ -33,9 +33,7 @@ function Listitem(props){
 
                 
             
-            
-        </React.Fragment>
-=======
+
             <ul>
                     <p>Name - {props.name}  </p>
                     <p><img src ={props.avatar} alt ={props.name}width="200"></img></p>
@@ -45,7 +43,7 @@ function Listitem(props){
                     <p>Email - {props.email}</p>
              </ul>
        </React.Fragment>
->>>>>>> 3312d2a7c94bedd186c6f5228869666079c336e0
+
     );
 }
 export default Listitem;
