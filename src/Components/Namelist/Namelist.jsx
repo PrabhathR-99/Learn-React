@@ -96,11 +96,12 @@ const namelistComponents = () => {
 };
  return(
         <React.Fragment>
-          <h1>Name List</h1>
-          <hr/>
-          <ul>
+         
+         <div className="container mt-4">
+          <ul className='list-group'>
         {namelistComponents()}
           </ul>
+          </div>
          
         </React.Fragment>
     );
