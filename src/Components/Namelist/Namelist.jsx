@@ -22,9 +22,6 @@ function Namelist(){
     picture : {
       medium :'https://www.cinemascomics.com/wp-content/uploads/2020/12/batman-de-ben-affleck.jpg',
     },
- 
-    
-    
 
   },
   {
@@ -48,9 +45,6 @@ function Namelist(){
     picture : {
       medium :'https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80',
     },
- 
-    
-    
 
   },
   {
